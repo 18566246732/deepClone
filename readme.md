@@ -20,6 +20,7 @@ function O(id) {
 const o = new O(123);
 
 o.m = o;
+// default is not keep proto, set the 2nd parameter to true to keep proto
 const oCopy = deepClone(o);
 ```
 
