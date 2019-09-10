@@ -1,4 +1,4 @@
-the solution is inspired by `Douglas Crockford`'s work of handle cycle reference
+the idea is inspired by `Douglas Crockford`'s work of handle cycle reference
 
 ## basic usage
 ```js
