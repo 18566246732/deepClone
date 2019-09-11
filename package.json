@@ -1,0 +1,23 @@
+{
+  "name": "clonedeeply",
+  "version": "1.0.0",
+  "description": "the idea to deep clone cycle referenced object is inspired by `Douglas Crockford`",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18566246732/deepClone.git"
+  },
+  "keywords": [
+    "deep clone",
+    "cycle"
+  ],
+  "author": "ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18566246732/deepClone/issues"
+  },
+  "homepage": "https://github.com/18566246732/deepClone#readme"
+}

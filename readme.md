@@ -2,7 +2,7 @@ the solution is inspired by `Douglas Crockford`'s work of handle cycle reference
 
 ## basic usage
 ```js
-const deepClone = require('./deepClone');
+const deepClone = require('clonedeeply');
 O.prototype.sayID = function() {
     console.log('id is: ', this.id);
 }
@@ -27,6 +27,7 @@ const oCopy = deepClone(o);
 ## supported environment
 
 - browser
+- nodejs
 
 ## example
 
