@@ -91,7 +91,3 @@ function retroCycle(params) {
         return $;
     })(params);
 }
-// get target type
-function getType(v) {
-    return Object.prototype.toString.call(v).match(/\[object (.*)\]/)[1].toLowerCase();
-}
