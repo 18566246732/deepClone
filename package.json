@@ -1,6 +1,6 @@
 {
   "name": "clonedeeply",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "the idea to deep clone cycle referenced object is inspired by `Douglas Crockford`",
   "main": "index.js",
   "scripts": {
